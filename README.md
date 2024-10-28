@@ -4,7 +4,7 @@ Clique is a social web app designed specifically for college students to stay co
 
 ## Features
 
-- *Study Material Corner*💦: A dedicated space where friends can share notes, textbooks, or any study resources, making it easy to access group materials in one place.
+- *Study Material Corner*💦: A dedicated space where friends can share  any study resources 😏, making it easy to access group materials in one place.
   
 - *Study Session Scheduler*: Allows each friend to see who’s free and set up a study session in a specific location. Ideal for planning group study sessions and staying accountable.
   
